@@ -36,6 +36,6 @@ Bu proje, hata tolerans prensiplerine dayalı bir dağıtık abonelik sistemi ge
 - 20060331, Mustafa ÇETİN
 
 ## Sunum Videosu Linki
-[- [Sunum Videosu Linki Buraya Eklenmelidir](#)](https://youtu.be/ShJpQ8HGj08)
+- Sunum Videosu Linki : https://youtu.be/ShJpQ8HGj08
 
 Ekip üyeleri, proje detaylarını ve kodun çalışma prensibini video üzerinden sunmuştur. Sunumda, proje kodlarının çalıştırılması ve logların gösterimi yapılmıştır.
