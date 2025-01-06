@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package example;
+
+message Subscriber {
+  string status = 1;         // SUBS, ONLN, OFFL
+  string name_surname = 2;   // Kullanıcı adı ve soyadı
+  int32 id = 3;              // Sistem tarafından atanacak ID
+  int64 last_accessed = 4;   // UNIX zaman damgası
+}

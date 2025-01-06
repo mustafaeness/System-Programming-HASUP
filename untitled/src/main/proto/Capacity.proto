@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package example;
+
+message Capacity {
+  int32 server_id = 1;       // Sunucu ID'si (1, 2, 3)
+  int32 server_status = 2;   // Sunucunun doluluk oranı
+  int64 timestamp = 3;       // UNIX zaman damgası
+}
