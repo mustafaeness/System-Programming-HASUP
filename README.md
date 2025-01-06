@@ -39,5 +39,3 @@ Bu proje, hata tolerans prensiplerine dayalı bir dağıtık abonelik sistemi ge
 - [Sunum Videosu Linki Buraya Eklenmelidir](#)
 
 Ekip üyeleri, proje detaylarını ve kodun çalışma prensibini video üzerinden sunmuştur. Sunumda, proje kodlarının çalıştırılması ve logların gösterimi yapılmıştır.
-- Ekip üyeleri Google-Meet eşliğinde projeyi anlatmalı. Video girişi, üyelerin numara,isim ve teknik ilgi alanları şeklinde kendini tanıtması.
-- Peşinden max. 3 dk kodları koşturma ve log.ların gösterimi. (Video linki, dersin hocası ve asistanı tarafından  erişilebilir olmalıdır.)
