@@ -6,13 +6,20 @@ Bu proje, hata tolerans prensiplerine dayalı bir dağıtık abonelik sistemi ge
 
 ### ServerX.java Özellikleri
 - [x] admin.rb üzerinden başlama komutlarını alma.
-- [x] Hata toleransı seviyesine göre liste paylaşımı ve güncelleme.
-- [x] Sunucular arası haberleşme.
-- [x] İstemcilerle haberleşme.
-- [x] Kapasite talep sistemi geliştirme.
+- [x] Hata toleransı 1 seviyesine göre liste paylaşımı ve güncelleme.
+- [x] Hata toleransı 2 seviyesine göre liste paylaşımı ve güncelleme.
+- [x] Sunucular arası haberleşme ve Configuration nesnesi paylaşımı.
+- [x] İstemcilerle haberleşme ve Subscriber nesnesi paylaşımı.
+- [x] Capacity talep sistemi geliştirme.
+
+### ClientX.java Özellikleri
+- [x] İlgili sunucuya bağlanarak abonelik talebi (SUBS) gönderme.
+- [x] Abone durumu güncellemeleri yapma (ONLN ve OFFLN).
+- [x] Hata tolerans seviyesine göre doğru sunucularla iletişim kurma.
+- [x] Başarılı veya başarısız taleplerin loglanması.
 
 ### plotter.py Özellikleri
-- [x] Sunuculardan gelen kapasite verilerini görselleştirme.
+- [x] Sunuculardan admin.rb'ye gelen capacity verilerini alma ve görselleştirme.
 - [x] 5 saniyede bir grafik güncelleme.
 - [x] Sunucuların renk kodlarıyla ayrılması.
 
